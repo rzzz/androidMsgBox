@@ -1,0 +1,85 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: AfjYuRvWQSacSFNikPKxeob3S8E=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: cIga++hy5wqjHl9IHSfbg8tqCug=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: stS7pUucSY0GgAVoESyO3Y7SanU=
+
+Name: resources.arsc
+SHA1-Digest: tpR9GDPCRRaZcTlbyhpKBUYm9vg=
+
+Name: res/drawable/xiaoxi.png
+SHA1-Digest: M2Idfo+CTghsWsRAjUJV4AZLzNA=
+
+Name: res/drawable/fmbg.png
+SHA1-Digest: oLVnNAgWU+s5GaMb1WEHl1EVXJo=
+
+Name: res/drawable/fankui.png
+SHA1-Digest: sdDm2vydkuVL1hG5rZmGA42MMuk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: mILBIdx/6cWxF5Oc9XMnZEuyUcY=
+
+Name: res/drawable/jianjie.png
+SHA1-Digest: /mZcVsC6erl7jbk+gHkUSp9OIVw=
+
+Name: res/drawable/menubg.png
+SHA1-Digest: fF8THf71ZynOip5kD3WS8paOvrY=
+
+Name: res/layout/huodong_rss.xml
+SHA1-Digest: 0fDPa7w/Y2Ysk2hDyHyJ0G/NReU=
+
+Name: assets/huiyuan.html
+SHA1-Digest: f1xqUxVlCTqAaq8f8mBDfG//E0s=
+
+Name: res/drawable/exitbt.png
+SHA1-Digest: 6db8OOPD81MOJC1RX8sEhywr0C8=
+
+Name: assets/jianjie.html
+SHA1-Digest: Wt00MrUAdkgbFpzMSDFPiCX17iQ=
+
+Name: res/layout/jianjieinfo.xml
+SHA1-Digest: JywKDISrfb0DADs8mTmfJ+XwZh0=
+
+Name: res/drawable/huodong.png
+SHA1-Digest: zu3Xh1KjCQDz/n85szeGYfn6JcQ=
+
+Name: res/layout/huiyuaninfo.xml
+SHA1-Digest: Q8yHwo6GjKXNRxuyNTorUN+pleo=
+
+Name: res/drawable/huiyuan.png
+SHA1-Digest: csfg/xD+0Zo/k7NqERVfdbwZNFQ=
+
+Name: classes.dex
+SHA1-Digest: uTccv9yLBxlrU5zfqO4EWfB27So=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: KKqaLh/DVvFp+v1KoaDw7xETvrI=
+
+Name: res/drawable/fmlogo.png
+SHA1-Digest: 3Fu6s7Xrpx+d9G38a8vllWSwiyk=
+
+Name: res/menu/main.xml
+SHA1-Digest: aMKEB92PMqjRrIQvbsD4N54u7LY=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: VY7kOF8E3rn8EUTvQC/DcBEN6kQ=
+
+Name: res/layout/mainmenu.xml
+SHA1-Digest: J4wz5PwZUPq2v+FBzUTezVtxae4=
+
+Name: res/layout/fankuiinfo.xml
+SHA1-Digest: e8IprwA3a0AdmlTKCWssvxAxZ0s=
+
+Name: res/layout/login.xml
+SHA1-Digest: 4oEpWeApDFYaUswXVuqQ2hwATT0=
+
+Name: assets/rss_huodong.xml
+SHA1-Digest: 91xBPMZYNv+9F51kUB2u+hhfY5A=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: cKAG94MJKeNskw7s8EIUfJ/p8pA=
+

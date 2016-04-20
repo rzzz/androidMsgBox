@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>消息中心</title>
+    <image>
+      <title>消息中心</title>
+      <link>http://news.qq.com</link>
+      <url>http://mat1.qq.com/news/rss/logo_news.gif</url>
+    </image>
+    <description>消息中心</description>
+    <link>http://news.qq.com/china_index.shtml</link>
+    <copyright>Copyright 1998 - 2005 TENCENT Inc. All Rights Reserved</copyright>
+    <language>zh-cn</language>
+    <generator>www.qq.com</generator>
+    <item>
+      <title>消息测试1</title>
+      <link>http://news.qq.com/a/20160420/023230.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2016-04-20 10:03:22</pubDate>
+      <comments/>
+      <description>这是消息1的描述文档</description>
+    </item>
+       <item>
+      <title>消息测试2</title>
+      <link>http://news.qq.com/a/20160420/023230.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2016-04-21 10:03:22</pubDate>
+      <comments/>
+      <description>这是消息2的描述文档</description>
+    </item>
+	    <item>
+      <title>消息测试3</title>
+      <link>http://news.qq.com/a/20160420/023230.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2016-04-22 10:03:22</pubDate>
+      <comments/>
+      <description>这是消息3的描述文档</description>
+    </item>
+       <item>
+      <title>消息测试4</title>
+      <link>http://news.qq.com/a/20160420/023230.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2016-04-23 10:03:22</pubDate>
+      <comments/>
+      <description>这是消息4的描述文档</description>
+    </item>
+  </channel>
+</rss>

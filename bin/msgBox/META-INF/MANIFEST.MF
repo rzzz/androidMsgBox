@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: resources.arsc
+SHA1-Digest: PLBVUsK637o9NA2Fgbir7VdpNgg=
+
+Name: res/drawable/xiaoxi.png
+SHA1-Digest: PWgLeu/rJv6eACZCYtMFB5WwLV8=
+
+Name: res/drawable/fmbg.png
+SHA1-Digest: bq4jP5FB7ufOrr9lUIrlnkr+CdM=
+
+Name: res/drawable/fankui.png
+SHA1-Digest: lllDffbKxoMP/eF9785AlRNOWfE=
+
+Name: res/drawable/jianjie.png
+SHA1-Digest: fU0iYHP1ukebQSbKy9tVgZvAcgs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 4HTnpIASL2ICRECx0JPUy1WF/pc=
+
+Name: res/drawable/menubg.png
+SHA1-Digest: b/abPOajKhkByxm/JW+xw0tpJ8w=
+
+Name: res/layout/huodong_rss.xml
+SHA1-Digest: GLdBbiKsTyjwbjNHRkJ80vD4Kgc=
+
+Name: assets/huiyuan.html
+SHA1-Digest: AU22azHhL2/SpvsxdPDJvr5aFCc=
+
+Name: res/drawable/exitbt.png
+SHA1-Digest: otbQyKnPkJpeczl7dBgqoHmkczY=
+
+Name: assets/jianjie.html
+SHA1-Digest: RqbQP4SOxhtxNuIxJPN49DSxJY0=
+
+Name: res/layout/jianjieinfo.xml
+SHA1-Digest: Q2/NzfJk2Y3s+6ooaz3OauZcH+8=
+
+Name: res/drawable/huodong.png
+SHA1-Digest: 7SUHXEQZFlzIBPrLmD7OiekE5W8=
+
+Name: res/layout/huiyuaninfo.xml
+SHA1-Digest: jSTLXCUHmFLCO+YweTb0iHQFHuE=
+
+Name: res/drawable/huiyuan.png
+SHA1-Digest: iUMZTX8bq7hL8Tl5hiUBO/uR7Mc=
+
+Name: classes.dex
+SHA1-Digest: koHJ6HspZsN12QjTFCHzoJKYaBY=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: res/drawable/fmlogo.png
+SHA1-Digest: 5PVpzT4S5bw/ac5n0WiocDeeeWk=
+
+Name: res/menu/main.xml
+SHA1-Digest: Am5BZyZVfeqkz1je46cO39ztmSI=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: res/layout/fankuiinfo.xml
+SHA1-Digest: Zmr2XN/n7h3Gbp95Titp7ZvOAOM=
+
+Name: res/layout/login.xml
+SHA1-Digest: bwa5hBjmwkp9WJ1d0aNE7jUfipI=
+
+Name: res/layout/mainmenu.xml
+SHA1-Digest: Vs60txqmSaBvvIoFWIJ/c6WQ9Ic=
+
+Name: assets/rss_huodong.xml
+SHA1-Digest: qOh6+SH33uclfoJccWBO81C6LKY=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: e81u3jDQEwFkDPHn9X0lvg/rhAk=
+
